@@ -9,15 +9,10 @@ PhonePe has become a leader among digital payment platforms, serving millions of
 **Key Technologies and Skills**
 
 - Github Cloning
-- 
 - Python
-- 
 - Pandas
-- 
 - PostgreSQL
-- 
 - Streamlit
-- 
 - Plotly
 
 **Installation**

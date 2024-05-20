@@ -7,6 +7,8 @@ import requests
 import streamlit as st
 import plotly.express as px
 
+#main program starts from here
+
 st.set_page_config(page_title='PHONEPE PULSE', page_icon=':bar_chart:', layout="wide")
 st.markdown(f'<h1 style="text-align: center;">PhonePe Pulse Data Visualization \
             and Exploration</h1>', unsafe_allow_html=True)
